@@ -1,0 +1,27 @@
+/* Bootstrap Icons 1.11.3 — self-hosted subset. Font file: bootstrap-icons.woff2
+   Codepoints verified against bootstrap-icons@1.11.3/font/bootstrap-icons.css */
+.bi { display: inline-block; font-family: "bootstrap-icons" !important; font-style: normal; font-weight: 400 !important; font-variant: normal; text-transform: none; line-height: 1; vertical-align: -.125em; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+.bi-scissors::before { content: "\f528"; }
+.bi-star-fill::before { content: "\f586"; }
+.bi-telephone-fill::before { content: "\f5b4"; }
+.bi-geo-alt-fill::before { content: "\f3e7"; }
+.bi-clock-fill::before { content: "\f291"; }
+.bi-envelope-fill::before { content: "\f32c"; }
+.bi-facebook::before { content: "\f344"; }
+.bi-check-circle-fill::before { content: "\f26a"; }
+.bi-check2-circle::before { content: "\f270"; }
+.bi-chevron-down::before { content: "\f282"; }
+.bi-arrow-right::before { content: "\f138"; }
+.bi-arrow-up-right::before { content: "\f144"; }
+.bi-x::before { content: "\f62a"; }
+.bi-list::before { content: "\f479"; }
+.bi-people-fill::before { content: "\f4cf"; }
+.bi-heart-fill::before { content: "\f415"; }
+.bi-shield-check::before { content: "\f52f"; }
+.bi-emoji-smile-fill::before { content: "\f324"; }
+.bi-chat-quote-fill::before { content: "\f254"; }
+.bi-cup-hot-fill::before { content: "\f7ea"; }
+.bi-award-fill::before { content: "\f153"; }
+.bi-calendar-check-fill::before { content: "\f1e1"; }
+.bi-patch-check-fill::before { content: "\f4b5"; }
+.bi-info-circle-fill::before { content: "\f430"; }

@@ -1,0 +1,22 @@
+/* Self-hosted fonts — Google Fonts OFL (variable woff2), no CDN at runtime. */
+@font-face {
+  font-family: "Oswald";
+  font-style: normal;
+  font-weight: 400 700;
+  font-display: swap;
+  src: url("oswald.woff2") format("woff2-variations");
+}
+@font-face {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url("inter.woff2") format("woff2-variations");
+}
+@font-face {
+  font-family: "bootstrap-icons";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("bootstrap-icons.woff2") format("woff2");
+}
